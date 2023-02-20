@@ -32,3 +32,17 @@ imutils.
 winsound.
 
 streamlit. 
+
+The start page should look like this :
+![alt text](https://github.com/chromerai/Drowsiness-Detection_Web_App/blob/main/Screenshot%20(272).png)
+
+The following pages should look like this :
+
+![alt text](https://github.com/chromerai/Drowsiness-Detection_Web_App/blob/main/Screenshot%20(273).png)
+
+![alt text](https://github.com/chromerai/Drowsiness-Detection_Web_App/blob/main/Screenshot%20(274).png)
+
+The `demo1.mp4` file is just a sample file, you should(or can) upload your own file or even can use webcam, however make sure that the webcam is sufficiently close to your face at the time of starting the webcam through the `use webcam` button on the web-app.
+
+The project was created in a group of 3 as a final year undergrad project.
+
