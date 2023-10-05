@@ -1,12 +1,14 @@
-Hi ! 
+Hi! 
 
-This repository contains the Drowsiness Detection deep learning model and the final web_application.
+This repository contains the Drowsiness Detection deep learning model and the final web application.
+
+First of all, download/clone the repo!
 
 The [`app7_images.py`](https://github.com/chromerai/Drowsiness-Detection_Web_App/blob/main/app7_images.py) is the final app that you need to run.
 
-The command to be used is : `streamlit run app7_images.py`
+The command to be used is: `streamlit run app7_images.py`
 
-The final Detection system is in : [`DDS-model.ipynb`](https://github.com/chromerai/Drowsiness-Detection_Web_App/blob/main/DDS-Model.ipynb)   
+The final Detection system is in: [`DDS-model.ipynb`](https://github.com/chromerai/Drowsiness-Detection_Web_App/blob/main/DDS-Model.ipynb)   
 
 The training and creation of the baseline model : [`Basleine_model.ipynb`](https://github.com/chromerai/Drowsiness-Detection_Web_App/blob/main/Baseline_model.ipynb).  
 
